@@ -1,0 +1,36 @@
+python
+java
+c++
+html
+css
+javascript
+sql
+mysql
+mongodb
+react
+angular
+node.js
+django
+flask
+git
+github
+linux
+docker
+kubernetes
+aws
+azure
+google cloud
+tensorflow
+pandas
+numpy
+matplotlib
+scikit-learn
+excel
+data analysis
+machine learning
+deep learning
+nlp
+problem solving
+communication
+teamwork
+leadership
